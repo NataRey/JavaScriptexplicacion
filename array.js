@@ -27,6 +27,8 @@ const eliminaPrimero = frutasyVerduras2.shift();
 
 console.log(`lo que elimine del array fue ${eliminaPrimero}`);
 console.log(frutasyVerduras2);
+///slice extraer una subseccion de un array y mostrar el resultado
+
 
 
 
