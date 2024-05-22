@@ -1,5 +1,5 @@
 /**Recorrer un array mostrar los elementos de ese array */
-/*
+
 const numeros = [1,2,3,4,5];
 //recorrido      
 
@@ -38,4 +38,6 @@ alert(numeros);
     for (let a=1; a<=10; a++){ 
         console.log (`10 + ${a} = ${10+a}`);
     }
+
+    
 
