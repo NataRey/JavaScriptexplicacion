@@ -14,7 +14,7 @@
 
 
 /*Realiza la suma de tres numeros y muestra el resultado el pantalla del usuarios*/
-
+/*
 let numero1 = 5;
 let numero2 = 7;
 let numero3 = 15;
@@ -26,7 +26,7 @@ suma = numero1+numero2+numero3;
 alert(`la suma de ${numero1}+${numero2}+${numero3}= ${suma}`);
 
 /*Realiza la resta de tres numeros y muestra el resultado el pantalla del usuarios*/
-
+/*
 let num1 = 5;
 let num2 = 7;
 let num3 = 15;
@@ -48,7 +48,7 @@ alert(nombreCompleto);
 /**Multiplicacion
  * hallar el area de un rectangulo
 */
-
+/*
 const base = 8;
 const altura =15;
 const areaRectangulo = base * altura;
@@ -57,13 +57,46 @@ alert(`El area del rectangulo cuya base fue ${base} y altura de ${altura} es igu
 /**Division
  * Obtener la velocidad a partir de la distancia y el tiempo
  */
-
+/*
 const distancia = 100.00; //metros
 const tiempo = 60.00;//segundos
 
 const velocidad = distancia/tiempo;
 console.log(velocidad);
-alert(`en una distancia de ${distancia} metros y tiempo de ${tiempo} la velocidad fue de ${velocidad}`);
+alert(`en una distancia de ${distancia} metros y tiempo de ${tiempo} la velocidad fue de ${velocidad}`);*/
+
+
+/**Verificar si un numero es par o impar */
+/*
+const num = 22;
+
+if (num % 2 === 0){
+    alert(`${num}, es un numero par`);
+}else{
+    alert(`${num}, es un numero impar`);
+}*/
+
+/**Calcule la potencia de un numero 
+
+let base = 6;
+let exponente = 17;
+let potencia = 1;
+
+/*let potencia = base ** exponente;
+console.log(potencia);
+
+for (let i =0; i<exponente; i++){
+    potencia *= base;
+}
+console.log(";a potencia es:"+potencia);*/
+
+/*let X=5; 
+X++;
+console.log(X);
+
+let Y=5;
+Y--;
+console.log(Y);*/
 
 
 
